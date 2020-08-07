@@ -1,4 +1,3 @@
-package com.hcl.gis.masterdata.repositoryImpl;
 
 public class Example1 {
 
